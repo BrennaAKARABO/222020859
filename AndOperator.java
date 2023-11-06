@@ -1,5 +1,6 @@
-public class AndOperator {
-    public static void main(String[] args) {
+public class AndOperator {// class name
+    public static void main(String[] args) {//  mandatory main method
+        // initialize values
         int a=10;  
 int b=5;  
 int c=20;  
